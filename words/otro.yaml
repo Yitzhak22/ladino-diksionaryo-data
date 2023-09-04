@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: other
-        fransez: ''
-        portugez: ''
+        fransez: autre
+        ebreo: אחר
+        portugez: outro
         kasteyano: otro
         turko:
         - sair
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: other
-        fransez: ''
-        portugez: ''
+        fransez: autre
+        ebreo: אחרת
+        portugez: outra
         kasteyano: otra
         turko:
         - sair
@@ -37,8 +39,9 @@ versions:
 
     translations:
         inglez: other
-        fransez: ''
-        portugez: ''
+        fransez: autre
+        ebreo: אחרים
+        portugez: outros
         kasteyano: otros
         turko:
         - sair
@@ -50,9 +53,10 @@ versions:
     number: plural
 
     translations:
-        inglez: other
-        fransez: ''
-        portugez: ''
+        inglez: others
+        fransez: autres
+        ebreo: אחרות
+        portugez: outras
         kasteyano: otras
         turko:
         - sair
