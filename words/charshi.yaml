@@ -10,9 +10,9 @@ versions:
 
     translations:
       inglez: market
-      fransez: ''
-      ebreo: ''
-      portugez: ''
+      fransez: marché
+      ebreo: שוק
+      portugez: mercado
       kasteyano: merkado
       turko: ''
 
@@ -24,9 +24,9 @@ versions:
 
     translations:
       inglez: markets
-      fransez: ''
-      ebreo: ''
-      portugez: ''
+      fransez: marchés
+      ebreo: שווקים
+      portugez: mercados
       kasteyano: merkados
       turko: ''
 
