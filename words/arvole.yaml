@@ -16,9 +16,9 @@ versions:
 
     translations:
         inglez: tree
-        fransez: ''
+        fransez: arbe
         hebrew: עץ
-        portugez: ''
+        portugez: árvore
         kasteyano: árbol
         turko: ağaçlar
 
@@ -30,9 +30,9 @@ versions:
 
     translations:
         inglez: trees
-        fransez: ''
+        fransez: arbes
         hebrew: עצים
-        portugez: ''
+        portugez: árvores
         kasteyano: árboles
         turko: ''
 
