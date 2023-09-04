@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: fresh
-        fransez: ''
-        portugez: ''
+        fransez: frais
+        ebreo: טרי
+        portugez: fresco
         kasteyano: fresco
         turko:
         - serin
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: fresh
-        fransez: ''
-        portugez: ''
+        fransez: fraîche
+        ebreo: טרייה
+        portugez: fresca
         kasteyano: fresca
         turko:
         - serin
@@ -37,8 +39,9 @@ versions:
 
     translations:
         inglez: fresh
-        fransez: ''
-        portugez: ''
+        fransez: frais
+        ebreo: טריים
+        portugez: frescos
         kasteyano: frescos
         turko:
         - serin
@@ -51,8 +54,9 @@ versions:
 
     translations:
         inglez: fresh
-        fransez: ''
-        portugez: ''
+        fransez: fraîches
+        ebreo: טריות
+        portugez: frescas
         kasteyano: frescas
         turko:
         - serin
