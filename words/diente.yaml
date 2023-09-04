@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: tooth
-        fransez: ''
-        portugez: ''
+        fransez: dent
+        ebreo: שן
+        portugez: dente
         kasteyano: diente
         turko: diş
 
@@ -23,8 +24,9 @@ versions:
 
     translations:
         inglez: teeth
-        fransez: ''
-        portugez: ''
+        fransez: dents
+        ebreo: שניים
+        portugez: dentes
         kasteyano: dientes
         turko: diş
 
