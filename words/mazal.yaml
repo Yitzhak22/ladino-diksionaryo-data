@@ -20,6 +20,7 @@ versions:
         - sort
         - chance
         portugez: sorte
+        ebreo: מזל
         kasteyano:
         - suerte
         - destino
