@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: shadow
-        fransez: ''
-        portugez: ''
+        fransez: ombre
+        ebreo: צל
+        portugez: sombra
         kasteyano: sombra
         turko: gölge
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: shadows
-        fransez: ''
-        portugez: ''
+        fransez: ombres
+        ebreo: צללים
+        portugez: sombras
         kasteyano: sombras
         turko: gölge
 
