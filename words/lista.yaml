@@ -10,7 +10,8 @@ versions:
 
     translations:
         inglez: list
-        fransez: ''
+        fransez: liste
+        ebreo: רשימה
         portugez: ''
         kasteyano: lista
         turko: liste
