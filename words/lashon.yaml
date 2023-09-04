@@ -9,7 +9,10 @@ versions:
         inglez:
         - language
         - tongue
-        fransez: ''
+        fransez: langue 
+        ebreo: 
+        - שפה
+        - לשון
         portugez: ''
         kasteyano:
         - lenguaje
