@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: culture
-        fransez: ''
-        portugez: ''
+        fransez: culture
+        ebreo: תרבות
+        portugez: cultura
         kasteyano: cultura
         turko: kültür
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: cultures
-        fransez: ''
-        portugez: ''
+        fransez: cultures
+        ebreo: תרבויות
+        portugez: culturas
         kasteyano: culturas
         turko: kültür
 
