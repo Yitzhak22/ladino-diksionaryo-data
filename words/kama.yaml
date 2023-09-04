@@ -15,8 +15,9 @@ versions:
         inglez:
         - bed
         - bedding
-        fransez: ''
-        portugez: ''
+        fransez: lit
+        ebreo: מיטה
+        portugez: cama
         kasteyano: cama
         turko:
         - yatak
@@ -30,10 +31,11 @@ versions:
 
     translations:
         inglez:
-        - bed
+        - beds
         - bedding
-        fransez: ''
-        portugez: ''
+        fransez: lits
+        ebreo: מיטות
+        portugez: camas
         kasteyano: camas
         turko:
         - yataklar
