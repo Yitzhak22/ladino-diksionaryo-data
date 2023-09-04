@@ -12,6 +12,9 @@ versions:
           - small
           - young
         fransez: petit
+        ebreo:
+          - קטן
+          - צעיר
         portugez: pequeno
         kasteyano: pequeño
         turko: küçük
@@ -26,6 +29,9 @@ versions:
           - small
           - young
         fransez: petite
+        ebreo:
+          - קטנה
+          - צעירה
         portugez: pequena
         kasteyano: pequeña
         turko: küçük
@@ -38,6 +44,9 @@ versions:
     translations:
         inglez: small
         fransez: petit
+        ebreo:
+          - קטנים
+          - צעירים
         portugez: pequenos
         kasteyano: pequeños
         turko: küçük
@@ -50,6 +59,9 @@ versions:
     translations:
         inglez: small
         fransez: petite
+        ebreo:
+          - קטנות
+          - צעירות
         portugez: pequenas
         kasteyano: pequeñas
         turko: küçük
