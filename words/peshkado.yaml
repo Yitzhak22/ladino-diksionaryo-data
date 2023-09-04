@@ -17,6 +17,7 @@ versions:
     translations:
         inglez: fish
         fransez: poisson
+        ebreo: דג
         portugez: peixe
         kasteyano: pescado
         turko: balık
@@ -32,9 +33,10 @@ versions:
     number: plural
 
     translations:
-        inglez: fish
-        fransez: poisson
-        portugez: peixe
+        inglez: fishes
+        fransez: poissons
+        ebreo: דגים
+        portugez: peixes
         kasteyano: pescados
         turko: balık
 
