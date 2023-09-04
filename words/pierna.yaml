@@ -11,8 +11,9 @@ versions:
 
     translations:
         inglez: thigh
-        fransez: ''
-        portugez: ''
+        fransez: cuisse
+        ebreo: ירך
+        portugez: coxa
         kasteyano: muslo
         turko: baldır
 
@@ -22,9 +23,10 @@ versions:
     number: plural
 
     translations:
-        inglez: thigh
-        fransez: ''
-        portugez: ''
+        inglez: thighs
+        fransez: cuisses
+        ebreo: ירכיים
+        portugez: coxas
         kasteyano: muslos
         turko: baldır
 
