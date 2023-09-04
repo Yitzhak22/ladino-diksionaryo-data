@@ -9,7 +9,8 @@ versions:
 
     translations:
         inglez: expression
-        fransez: ''
+        fransez: expression
+        ebreo: ביטוי
         portugez: ''
         kasteyano: expresión
         turko: ifade
