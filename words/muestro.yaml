@@ -9,8 +9,9 @@ versions:
 
     translations:
         inglez: our
-        fransez: ''
-        portugez: ''
+        fransez: notre 
+        ebreo: שלנו
+        portugez: nosso
         kasteyano: nuestro
         turko: bizim
 
@@ -21,8 +22,9 @@ versions:
 
     translations:
         inglez: our
-        fransez: ''
-        portugez: ''
+        fransez: notre 
+        ebreo: שלנו
+        portugez: nossa
         kasteyano: nuestra
         turko: bizim
 
@@ -33,8 +35,9 @@ versions:
 
     translations:
         inglez: our
-        fransez: ''
-        portugez: ''
+        fransez: nos
+        ebreo: שלנו
+        portugez: nossos 
         kasteyano: nuestros
         turko: bizim
 
@@ -45,8 +48,9 @@ versions:
 
     translations:
         inglez: our
-        fransez: ''
-        portugez: ''
+        fransez: nos
+        ebreo: שלנו
+        portugez: nossas 
         kasteyano: nuestras
         turko: bizim
 
