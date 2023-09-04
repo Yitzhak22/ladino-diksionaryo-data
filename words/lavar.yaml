@@ -6,8 +6,11 @@ versions:
 
     translations:
         inglez: wash
-        fransez: ''
-        portugez: ''
+        fransez: laver
+        ebreo: 
+        - לשטוף
+        - לרחוץ
+        portugez: lavar
         kasteyano: lavar
         turko: yıkamak
 
