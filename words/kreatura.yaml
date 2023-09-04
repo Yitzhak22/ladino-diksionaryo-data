@@ -16,8 +16,11 @@ versions:
 
     translations:
         inglez: child
-        fransez: ''
-        portugez: ''
+        fransez: enfant
+        ebreo:
+          - ילד
+          - ילדה
+        portugez: criança
         kasteyano:
           - niño
           - criatura
@@ -35,9 +38,12 @@ versions:
     number: plural
 
     translations:
-        inglez: child
-        fransez: ''
-        portugez: ''
+        inglez: children
+        fransez: enfants
+        ebreo:
+          - ילדים
+          - ילדות
+        portugez: crianças
         kasteyano:
           - niños
           - criaturas
