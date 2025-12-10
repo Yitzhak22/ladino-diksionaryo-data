@@ -1,4 +1,4 @@
-grammar: NA
+grammar: adverb
 orijen: Jeneral
 
 versions:
@@ -6,9 +6,23 @@ versions:
 
     translations:
         inglez: late
-        fransez: soir
-        portugez: ''
+        ebreo: מאוחר
+        fransez: en retard
+        portugez: tarde
         kasteyano: tarde
         turko: geç
 
+grammar: noun
+orijen: Jeneral
+
+versions:
+  - ladino: tadre
+
+    translations:
+        inglez: evening
+        ebreo: ערב
+        fransez: soir
+        portugez: noite
+        kasteyano: tarde
+        turko: akşam
 
