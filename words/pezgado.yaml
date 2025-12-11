@@ -1,4 +1,4 @@
-grammar: NA
+grammar: adjective
 orijen: Ladinokomunita
 
 versions:
@@ -9,9 +9,9 @@ versions:
 
     translations:
       inglez: heavy
-      fransez: ''
-      ebreo: ''
-      portugez: ''
+      fransez: lourd
+      ebreo: כבד
+      portugez: pesado
       kasteyano: pesado
       turko: ''
 
@@ -22,9 +22,9 @@ versions:
 
     translations:
       inglez: heavy
-      fransez: ''
-      ebreo: ''
-      portugez: ''
+      fransez: lourde
+      ebreo: כבדה
+      portugez: pesada
       kasteyano: pesada
       turko: ''
 
@@ -35,9 +35,9 @@ versions:
 
     translations:
       inglez: heavy
-      fransez: ''
-      ebreo: ''
-      portugez: ''
+      fransez: lourds
+      ebreo: כבדים
+      portugez: pesados
       kasteyano: pesados
       turko: ''
 
@@ -48,9 +48,9 @@ versions:
 
     translations:
       inglez: heavy
-      fransez: ''
-      ebreo: ''
-      portugez: ''
+      fransez: lourdes
+      ebreo: כבדות
+      portugez: pesadas
       kasteyano: pesadas
       turko: ''
 
