@@ -10,8 +10,9 @@ versions:
 
     translations:
         inglez: past
-        fransez: ''
-        portugez: ''
+        ebreo: שעבר
+        fransez: dernier
+        portugez: passado
         kasteyano: pasado
         turko:
         - geçmiş
@@ -25,8 +26,9 @@ versions:
 
     translations:
         inglez: past
-        fransez: ''
-        portugez: ''
+        ebreo: שעברה
+        fransez: dernière
+        portugez: passada
         kasteyano: pasada
         turko:
         - geçmiş
